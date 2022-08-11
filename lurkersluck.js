@@ -1,6 +1,6 @@
 const TITLE_APPLY = "Lurker's luck";
 const APPLICABLE_PROTOCOLS = ["http:", "https:"];
-const PATH_ICON = "icons/icon.png";
+const PATH_ICON = "icons/bigR.svg";
 
 /**
  * The code is taken from [apply-css] example over on [webextensions-examples] repo.

@@ -3,7 +3,7 @@
   "name": "Lurker's luck",
   "version": "1.0",
   "icons": {
-    "48": "icons/icon.png"
+    "24": "icons/bigR.svg"
   },
   "description": "Redirects all reddit.com requests to libredd.it!",
   "permissions": [
@@ -17,7 +17,7 @@
     ]
   },
   "page_action": {
-    "default_icon": "icons/icon.png",
+    "default_icon": "icons/bigR.svg",
     "browser_style": true
   }
 }
